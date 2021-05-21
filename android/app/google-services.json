@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003361367300",
+    "project_id": "emergency-alert-72d70",
+    "storage_bucket": "emergency-alert-72d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003361367300:android:8fe9bdb031d4f9b9da4c51",
+        "android_client_info": {
+          "package_name": "com.example.eas_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003361367300-ae6d9a7vo865l98a367q74fjd3encf3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ2GgYRgmi1BgfeTYMz_RxR9JJ5KeshHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003361367300-ae6d9a7vo865l98a367q74fjd3encf3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
