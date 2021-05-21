@@ -1,3 +1,5 @@
+#Дипломын ажил EAS FrontEnd Flutter
+
 # eas_flutter
 
 A new Flutter project.
